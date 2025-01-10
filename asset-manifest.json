@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tribepub/static/css/main.c92b6fbf.css",
+    "main.js": "/tribepub/static/js/main.80e7e3ec.js",
+    "static/js/488.73e9266d.chunk.js": "/tribepub/static/js/488.73e9266d.chunk.js",
+    "static/media/Mask group (2).png": "/tribepub/static/media/Mask group (2).0c3d29b6a5d3f19e6088.png",
+    "static/media/youtube.jpeg": "/tribepub/static/media/youtube.ac136cf6e93757dde4e9.jpeg",
+    "static/media/person.jpg": "/tribepub/static/media/person.a228fa6a28a9d809baa5.jpg",
+    "index.html": "/tribepub/index.html",
+    "main.c92b6fbf.css.map": "/tribepub/static/css/main.c92b6fbf.css.map",
+    "main.80e7e3ec.js.map": "/tribepub/static/js/main.80e7e3ec.js.map",
+    "488.73e9266d.chunk.js.map": "/tribepub/static/js/488.73e9266d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c92b6fbf.css",
+    "static/js/main.80e7e3ec.js"
+  ]
+}
